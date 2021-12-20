@@ -5,7 +5,15 @@ body
 }
 h1
 {
-    font-size: 30px;
+    font-size: 40px;
+}
+h3
+{
+    font-size: 20px;
+}
+p
+{
+    color: dimgray;
 }
 .name-highlight
 {
@@ -17,9 +25,26 @@ h1
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+    
+}
+section
+{
+    height: 500px;
+    padding-bottom: ;
 }
 .half-width img{
-width: 100%;
+width: 50%;
 }
-
-
+.link-button
+{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px,20px;
+    color: black;
+}
+.single-experiance
+{
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  height: 80%;
+}
